@@ -1,4 +1,4 @@
-# API REST para Administración de Tareas Personales con Python y Flask
+# API REST para Administración de Tareas con Python y Flask
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -7,7 +7,7 @@
 
 ## 📌 Descripción del Proyecto
 
-Este proyecto es una **API RESTful** diseñada específicamente para la administración de un sistema básico de tareas personales. Ha sido construido utilizando **Python**, el micro-framework **Flask** y **SQLAlchemy** como ORM (Object Relational Mapper) para interactuar de forma sencilla con una base de datos **SQLite**.
+Esto es una **API RESTful** diseñada específicamente para la administración de un sistema básico de tareas . Ha sido construido utilizando **Python**, el micro-framework **Flask** y **SQLAlchemy** como ORM (Object Relational Mapper) para interactuar de forma sencilla con una base de datos **SQLite**.
 
 El objetivo principal detrás del desarrollo de esta API es comprender y consolidar los conocimientos prácticos sobre la arquitectura cliente-servidor, la creación e implementación de un modelo de datos robusto y la ejecución completa de operaciones **Actividades CRUD** (Create, Read, Update, Delete) a través de peticiones HTTP.
 
